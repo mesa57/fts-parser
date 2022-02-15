@@ -1,5 +1,5 @@
 {
-    "name": "digitalstratum/fts_parser",
+    "name": "spotweb/fts_parser",
     "type": "library",
     "description": "Full Text Search Parser for TSearch2 and PostgreSQL",
     "keywords": ["fts", "fulltext", "tsearch2", "postgresql"],
